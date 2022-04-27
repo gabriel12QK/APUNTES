@@ -1,1 +1,7 @@
 apuntes 27/04/2022
+descargar bootstrap 5 extension visual estudio code
+clase row: crea una fila de 12 espacios, si se usan varias divisiones las suma de las columnas debe dar 12 
+lg:grande 
+md:medio
+sm:pequeño
+class ="co-lg-tamaño del row"
