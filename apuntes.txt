@@ -5,3 +5,7 @@ lg:grande
 md:medio
 sm:pequeño
 class ="co-lg-tamaño del row"
+TAILWIND
+tailwind snippets
+instalar node.js
+node --version
